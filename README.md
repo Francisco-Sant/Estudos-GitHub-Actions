@@ -1,4 +1,4 @@
-## Bem-vindos ao meu repositorio de estudos!
+## Bem-vindos ao meu GitHub!
 
 Olá sou Francisco no momento sou Support Analist mas atualmente estou estudando para mudar de carreira.
 Este repositorio foi criado para estudos e aqui você verá tudo que estou estudando e minha evolução.
