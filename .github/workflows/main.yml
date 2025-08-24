@@ -19,7 +19,6 @@ jobs:
           variavel = "Hello World !!!"
           print(variavel)
         shell: python
-      - name
  segundo-job:
    name: "Instalação do Ambiente NodeJS"
    runs-on: ubuntu-latest
@@ -30,3 +29,5 @@ jobs:
      - uses: actions/setup-node@v4
        with:
          node-version: '22.18.0'
+     - name: "Verificação da versão do NodeJS depois de instalar"
+       run: node --version
